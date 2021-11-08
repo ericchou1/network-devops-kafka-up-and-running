@@ -1,0 +1,23 @@
+2021 Nov  6 16:17:26 lax-cor-r1 %ETHPORT-5-IF_DOWN_ADMIN_DOWN: Interface Ethernet2/23 is down (Administratively down)
+2021 Nov  6 16:16:53 lax-cor-r1 %VDC_MGR-5-VDC_STATE_CHANGE: vdc 1 state changed to create in progress
+2021 Nov  6 16:16:53 lax-cor-r1 %IM-5-IM_INTF_STATE: mgmt0 is DOWN in vdc 1
+2021 Nov  6 16:16:53 lax-cor-r1 %MODULE-2-MOD_UNKNOWN: Module type [262] in slot 1 is not supported
+2021 Nov  6 16:16:53 lax-cor-r1 %MODULE-2-MOD_UNKNOWN: Module type [262] in slot 1 is not supported
+2021 Nov  6 16:17:26 lax-cor-r1 %ETHPORT-5-IF_DOWN_ADMIN_DOWN: Interface Ethernet2/23 is down (Administratively down)
+2021 Nov  6 16:17:26 lax-cor-r1 %ETHPORT-5-IF_DOWN_ADMIN_DOWN: Interface Ethernet2/23 is down (Administratively down)
+2021 Nov  6 16:17:26 lax-cor-r1 %ETHPORT-5-IF_DOWN_ADMIN_DOWN: Interface Ethernet2/23 is down (Administratively down)
+2021 Nov  6 16:17:26 lax-cor-r1 %ETHPORT-5-IF_DOWN_ADMIN_DOWN: Interface Ethernet2/23 is down (Administratively down)
+2021 Nov  6 16:16:53 lax-cor-r1 %VDC_MGR-5-VDC_STATE_CHANGE: vdc 1 state changed to create in progress
+2021 Nov  6 16:16:53 lax-cor-r1 %IM-5-IM_INTF_STATE: mgmt0 is DOWN in vdc 1
+2021 Nov  6 16:16:53 lax-cor-r1 %MODULE-2-MOD_UNKNOWN: Module type [262] in slot 1 is not supported
+2021 Nov  6 16:16:53 lax-cor-r1 %MODULE-2-MOD_UNKNOWN: Module type [262] in slot 1 is not supported
+2021 Nov  6 16:17:26 lax-cor-r1 %ETHPORT-5-IF_DOWN_ADMIN_DOWN: Interface Ethernet2/23 is down (Administratively down)
+2021 Nov  6 16:17:26 lax-cor-r1 %ETHPORT-5-IF_DOWN_ADMIN_DOWN: Interface Ethernet2/23 is down (Administratively down)
+2021 Nov  6 16:17:26 lax-cor-r1 %ETHPORT-5-IF_DOWN_ADMIN_DOWN: Interface Ethernet2/23 is down (Administratively down)
+2021 Nov  6 16:17:26 lax-cor-r1 %ETHPORT-5-IF_DOWN_ADMIN_DOWN: Interface Ethernet2/23 is down (Administratively down)
+2021 Nov  6 16:17:26 lax-cor-r1 %ETHPORT-5-IF_DOWN_ADMIN_DOWN: Interface Ethernet2/23 is down (Administratively down)
+2021 Nov  6 16:17:26 lax-cor-r1 %ETHPORT-5-IF_DOWN_ADMIN_DOWN: Interface Ethernet2/23 is down (Administratively down)
+2021 Nov  6 16:17:26 lax-cor-r1 %ETHPORT-5-IF_DOWN_ADMIN_DOWN: Interface Ethernet2/23 is down (Administratively down)
+2021 Nov  6 16:17:26 lax-cor-r1 %ETHPORT-5-IF_DOWN_ADMIN_DOWN: Interface Ethernet2/23 is down (Administratively down)
+2021 Nov  6 16:17:26 lax-cor-r1 %ETHPORT-5-IF_DOWN_ADMIN_DOWN: Interface Ethernet2/23 is down (Administratively down)
+2021 Nov  6 16:17:26 lax-cor-r1 %ETHPORT-5-IF_DOWN_ADMIN_DOWN: Interface Ethernet2/23 is down (Administratively down)

@@ -1,0 +1,4 @@
+Hello, I am a test file for Kafka Connect file connectors. 
+
+these are new contents
+
