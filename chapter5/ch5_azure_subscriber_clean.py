@@ -13,7 +13,7 @@ async def on_event(partition_context, event):
     await partition_context.update_checkpoint(event)
 
 async def main():
-    client = EventHubConsumerClient.from_connection_string("Endpoint=sb://eventhub-test.servicebus.windows.net/;SharedAccessKeyName=manage-event-hub;SharedAccessKey=XtlcF39ewDfO1QaNQXOsZdV00rE42bWR7VJFgR4ZX+I=;EntityPath=test-event", consumer_group="$Default", eventhub_name="test-event")
+    client = EventHubConsumerClient.from_connection_string("Endpoint=sb://eventhub-test.servicebus.windows.net/;SharedAccessKeyName=manage-event-hub;SharedAccessKey=<key>=;EntityPath=test-event", consumer_group="$Default", eventhub_name="test-event")
     async with client:
         # Call the receive method. Read from the beginning of the partition (starting_position: "-1")
         await client.receive(on_event=on_event,  starting_position="-1")

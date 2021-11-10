@@ -7,7 +7,7 @@ async def run():
     # Create a producer client to send messages to the event hub.
     # Specify a connection string to your event hubs namespace and
     # the event hub name.
-    producer = EventHubProducerClient.from_connection_string(conn_str="Endpoint=sb://eventhub-test.servicebus.windows.net/;SharedAccessKeyName=manage-event-hub;SharedAccessKey=XtlcF39ewDfO1QaNQXOsZdV00rE42bWR7VJFgR4ZX+I=;EntityPath=test-event", eventhub_name="test-event")
+    producer = EventHubProducerClient.from_connection_string(conn_str="Endpoint=sb://eventhub-test.servicebus.windows.net/;SharedAccessKeyName=manage-event-hub;SharedAccessKey=<key>;EntityPath=test-event", eventhub_name="test-event")
     async with producer:
         # Create a batch.
         event_data_batch = await producer.create_batch()
