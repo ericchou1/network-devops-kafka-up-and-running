@@ -5,7 +5,7 @@ This is the respository companion to the book:
 **Network DevOps Series: Kafka Up and Running**
 
 - [LeanPub](https://leanpub.com/network-devops-kafka-up-and-running)
-- [Amazon](https://www.amazon.com/)
+- [Amazon](https://smile.amazon.com/gp/product/B09LRC5YZT/)
 
 ![Network DevOps Series: Kafka Up and Running Book Cover](/images/Kafka_Book_Cover.png)
 
