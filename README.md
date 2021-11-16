@@ -1,8 +1,8 @@
-# Network DevOps Series: Kafka Up and Running
+# Kafka Up and Running for Network DevOps
 *Set Your Network Data in Motion* 
 
 This is the respository companion to the book: 
-**Network DevOps Series: Kafka Up and Running**
+**Kafka Up and Running for Network DevOps**
 
 - [LeanPub](https://leanpub.com/network-devops-kafka-up-and-running)
 - [Amazon Kindle](https://smile.amazon.com/gp/product/B09LRC5YZT/)
