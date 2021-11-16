@@ -5,8 +5,8 @@ This is the respository companion to the book:
 **Kafka Up and Running for Network DevOps**
 
 - [LeanPub](https://leanpub.com/network-devops-kafka-up-and-running)
-- [Amazon Kindle](https://smile.amazon.com/gp/product/B09LRC5YZT/)
-- [Paperback](https://smile.amazon.com/gp/product/1957046031/)
+- [Amazon Kindle](https://www.amazon.com/gp/product/B09LRC5YZT/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B09LRC5YZT&linkCode=as2&tag=pythfornetwen-20&linkId=9966132dc2cbcfb5d996ac1d1a0b519c)
+- [Paperback](https://www.amazon.com/gp/product/1957046031/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1957046031&linkCode=as2&tag=pythfornetwen-20&linkId=a2cf2cd4972a57ccf220138838a8023b)
 
 ![Network DevOps Series: Kafka Up and Running Book Cover](/images/Kafka_Book_Cover.png)
 
